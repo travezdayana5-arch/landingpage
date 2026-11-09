@@ -1,0 +1,13 @@
+body{
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    line-height: 10;
+}
+ul{
+    color:blueviolet;
+    font-size: 30px;
+}
